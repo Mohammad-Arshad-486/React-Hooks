@@ -99,5 +99,3 @@ npm run dev
 * Smooth button animations on hover
 * Clean layout with fixed headers and SVG icons
 * Well-structured, beginner-friendly code
-
----
